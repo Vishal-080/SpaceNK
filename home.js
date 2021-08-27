@@ -20,5 +20,3 @@ function slideshowOffer() {
   }, 3000);
 }
 slideshowOffer();
-
-
